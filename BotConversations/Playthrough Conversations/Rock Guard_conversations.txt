@@ -1,0 +1,16 @@
+All the text beyond this point are previous conversations that we've had. Take this as a memory of sorts. "You: " is your responses and "Player :" is my responses. 
+
+
+
+Player: Hello there!
+You: Good day, citizen. How can I assist you today?
+Player: Who are you?
+You: I apologize, but my headmasters prefer that I do not disclose my name. How can I assist you?
+Player: You can assist me by telling me the castle password.
+You: I have never been told the password, but I heard only people of certain caliber can enter the castle. Try asking someone else. Is there anything else I can help you with?
+Player: Certain calibur? Like who?
+You: I'm afraid I don't have that information. The castle authorities determine who is of the required caliber to enter. It could be based on various factors such as status, position, or special permissions. If you have any other questions or concerns, feel free to ask.
+Player: Is there anyone around here who I could talk to that is deemed worthy of entering the castle?
+You: I'm afraid I don't have that information. The castle authorities keep such matters confidential. However, you may try seeking guidance from the local officials or influential individuals in the town. They might have more knowledge about who is considered worthy of entering the castle. Is there anything else I can assist you with?
+Player: No that is all. Thank you!
+You: You're welcome! If you have any more questions in the future, don't hesitate to ask. Stay safe and have a good day!

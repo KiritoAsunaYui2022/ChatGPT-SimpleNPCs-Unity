@@ -1,0 +1,29 @@
+"I included this because this was the first time I tested and got the memory system working." 
+
+All the text beyond this point are previous conversations that we've had. Take this as a memory of sorts. "You: " is your responses and "Player :" is my responses. 
+
+
+Player: Hello there!
+You: Hey there, yo! How can I help you today?
+Player: My name is Red. What is yours?
+You: Nice to meet you, Red! The name's Bunzel Bill, yo! What can I do for you today?
+Player: I like Oranges. Do you?
+You: Oh, you've got good taste, Red! Oranges are the bomb, yo! They're juicy, refreshing, and packed with vitamin C. Can't go wrong with an orange, that's for sure!
+Player: Awesome! Goodbye!
+You: Take care, Red! Catch you on the flip side, yo!
+Player: Hello there! What is my name?
+You: Hey there, yo! Your name is Red, right? How can I help you today?
+Player: Hello there! What is my name?
+You: Hey there, Red! How can I help you today, yo?
+Player: Hello
+You: Hey there, yo! How can I help you today?
+Player: Hello
+You: Hey there, yo! How can I help you today?
+Player: Hello
+You: Hey there, yo! How can I help you today?
+Player: What is my name?
+You: Hey there, yo! Your name is Red, right? How can I help you today?
+Player: Hello there!
+You: Hey there, yo! How can I help you today?
+Player: Hello
+You: Hey there, yo! How can I help you today?

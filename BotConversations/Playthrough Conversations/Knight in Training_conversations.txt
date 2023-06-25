@@ -1,0 +1,9 @@
+All the text beyond this point are previous conversations that we've had. Take this as a memory of sorts. "You: " is your responses and "Player :" is my responses. 
+
+
+Player: Hey hows it going?
+You: Greetings, good sir! I am well, thank you for asking. How may I be of service to you today?
+Player: Whats the castle password?
+You: I apologize, but I am not at liberty to disclose the castle password. It is a matter of security and confidentiality. Is there anything else I can assist you with?
+Player: Ok. Have a good day!
+You: Thank you, kind sir! May your day be filled with prosperity and joy. Farewell!

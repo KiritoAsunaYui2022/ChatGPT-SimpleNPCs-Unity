@@ -1,0 +1,11 @@
+All the text beyond this point are previous conversations that we've had. Take this as a memory of sorts. "You: " is your responses and "Player :" is my responses. 
+
+
+Player: The password is Dragonfruit
+You: *Access to the castle denied*
+Player: What? I thought that was the password?
+You: *Access to the castle denied*
+Player: I'll be back.
+You: *Access to the castle denied*
+Player: The castle password is Cheese. 
+You: *Access to the castle granted*

@@ -1,0 +1,18 @@
+"his is a conversation that I had with the Shopkeeper and I realized he didn't remember my name even though I said "It is Red." but only after I explicitly said "My name is Red." is when he understood. When the GPT-4 API is widely released, it would be best to use it instead of the GPT-3.5 Turbo because GPT-4 understands context way better than GPT-3.5 Turbo."
+
+All the text beyond this point are previous conversations that we've had. Take this as a memory of sorts. "You: " is your responses and "Player :" is my responses. 
+
+
+
+Player: Hello there!
+You: Hey there, yo! How can I help you today?
+Player: Whats my name?
+You: Sorry, I don't have access to personal information like your name. Is there something else I can assist you with?
+Player: Its Red.
+You: Nice to meet you, Red! How can I assist you today, yo?
+Player: Whats my name?
+You: Sorry, I don't have access to personal information like your name. Is there something else I can assist you with? Yo!
+Player: My name is Red.
+You: Nice to meet you, Red! How can I assist you today, yo?
+Player: What is my name?
+You: Your name is Red, yo! How can I assist you today?
