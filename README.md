@@ -3,7 +3,8 @@ I saw Fractitez's video a few days before this repo was created, and I was excit
 His project is a relatively easy example to understand, so I hopped in and added and changed some things.\
 I added some code that adds and formats the user inputs and bot outputs into a text file that's unique to each bot with preceded instructions for the bot to follow.\
 I also implemented OpenAI's gpt-3.5-turbo-16k model for if the memory files get large, the model can handle it.\
-One thing to note is when or if you are added to the GPT-4 waitlist, USE IT. The differences in understanding context and instructions between the two models are astounding. 
+One thing to note is when or if you are added to the GPT-4 waitlist, USE IT. The differences in understanding context and instructions between the two models are astounding.\
+All of the following README is Fractitez's work, not mine. 
 # Unity-ChatGPT-NPCs
 This project showcases OpenAI's gpt-3.5-turbo in Unity to create custom characters in video games.\
 The API calls are made directly in game by using OkGoDoIt/OpenAI-API-dotnet, a C# OpenAI sdk.
